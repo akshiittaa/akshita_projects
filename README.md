@@ -30,11 +30,51 @@ EDA involved exploring the hospitality data to answer key questions, such as :
 - When you got unexpected results ?
 - What are the guest preferences over the years ?
 
+![image 1](https://github.com/user-attachments/assets/9e476219-2e36-4596-8d30-65157d3f8ce4)
+
+
+Revenue Management:
+
+1. Conduct market analysis to optimize pricing strategies.
+2. Implement revenue management software to maximize yield.
+3. Develop package deals and promotions to drive bookings.
+4. Expand online presence through social media and meta-search.
+
+
+Marketing Strategy:
+
+1. Focus on experiential marketing to create memorable experiences.
+2. Utilize social media influencers for brand promotion.
+3. Develop targeted email campaigns to loyalty program members.
+4. Collaborate with local businesses for cross-promotions.
+
+
+![image 2](https://github.com/user-attachments/assets/90a348d8-fb53-4d2f-a659-8b129513fe73)
+
+
 ## Results/Findings
 The analysis results are summarized as :
 1. Revenue generated from luxury rooms exceedes that of business rooms in metro cities , indicating a higher demand for premium accommodations in urban centres.
 2. Revenue, occupancy, ADR, RevPAR, and DSNR have risen week-on-week, but realization percentage has fallen, highlighting a gap between revenue growth and optimization.
 3. The collective average rating for metropolitan cities is roughly 3.62, offering a comprehensive snapshot of customer satisfaction and informing strategic decisions.
+
+
+Revenue Management:
+
+1. Conduct market analysis to optimize pricing strategies.
+2. Implement revenue management software to maximize yield.
+3. Develop package deals and promotions to drive bookings.
+4. Expand online presence through social media and meta-search.
+
+
+Marketing Strategy:
+
+1. Focus on experiential marketing to create memorable experiences.
+2. Utilize social media influencers for brand promotion.
+3. Develop targeted email campaigns to loyalty program members.
+4. Collaborate with local businesses for cross-promotions.
+
+
 
 ## Recommendations
 
