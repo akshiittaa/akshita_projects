@@ -92,5 +92,6 @@ Marketing Strategy:
 3. Develop targeted email campaigns to loyalty program members.
 4. Collaborate with local businesses for cross-promotions.
 
+
   
 
